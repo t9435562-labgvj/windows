@@ -1,8 +1,8 @@
 {
-  "name": "Windows 8.1 Enterprise",
+  "name": "Windows 8.1 superlite",
   "service": "windows",
   "containerEnv": {
-    "VERSION": "8e"
+    "VERSION": "https://archive.org/download/win-8.1-pro-lite/WIN%208.1%20PRO%20LITE.iso"
   },
   "forwardPorts": [8006],
   "portsAttributes": {
