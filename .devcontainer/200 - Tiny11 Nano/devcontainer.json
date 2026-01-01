@@ -1,8 +1,8 @@
 {
-  "name": "Tiny11 Nano",
+  "name": "Oprekin 10",
   "service": "windows",
   "containerEnv": {
-    "VERSION": "nano11"
+    "VERSION": "https://archive.org/download/win-10-pro-22-h-2.5737-oprekin.com/Win10Pro_22H2.5737_oprekin.com.iso"
   },
   "forwardPorts": [8006],
   "portsAttributes": {
